@@ -2,4 +2,4 @@
 
 ##🔑 GO JWT Authentication API
 
-- A simple API conected to a mysql database that performs CRUD functions.
+- A simple API connected to a mysql database that performs CRUD functions.
